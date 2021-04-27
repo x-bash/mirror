@@ -1,0 +1,9 @@
+{
+    "files.defaultLanguage": "shellscript",
+    "files.associations": {
+        "**/*.json": "json",
+        "**/*": "shellscript"
+    },
+    "editor.detectIndentation": true,
+    "editor.tabSize": 4,
+}

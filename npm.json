@@ -1,0 +1,14 @@
+[
+    {
+        "pattern": [ "taobao", "ali", "aliyun" ],
+        "url": "https://registry.npm.taobao.org"
+    },
+    {
+        "pattern": [ "cnpm", "cnpmjs" ],
+        "url": "https://r.cnpmjs.org/"
+    },
+    {
+        "pattern": [ "tsinghua", "qinghua", "tuna", "qh" ],
+        "url": "http://npm.tuna.tsinghua.edu.cn/registry"
+    }
+]

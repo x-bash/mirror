@@ -21,7 +21,7 @@
         "url": "http://uk.maven.org/maven2/"
     },
     {
-        "pattern": [ "ali", "aliyun" ],
+        "pattern": [ "ali", "aliyun", "taobao" ],
         "id": "nexus-aliyun",
         "mirrorOf": "*",
         "name": "Nexus aliyun",

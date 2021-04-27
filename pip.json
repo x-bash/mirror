@@ -1,6 +1,6 @@
 [
     {
-        "pattern": [ "qinghua", "tuna", "qh", "tsinghua", "tuna" ],
+        "pattern": [ "tsinghua", "qinghua", "tuna", "qh" ],
         "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
     },
     {
@@ -8,7 +8,7 @@
         "url": "https://pypi.mirrors.ustc.edu.cn/simple/"
     },
     {
-        "pattern": [ "aliyun" ],
+        "pattern": [ "ali", "aliyun", "taobao" ],
         "url": "http://mirrors.aliyun.com/pypi/simple/"
     },
     {

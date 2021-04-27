@@ -1,9 +1,9 @@
 dev.mirror.push(){
     git remote remove gitee 2>/dev/null
-    git remote add gitee git@gitee.com:x-bash/advise.git
+    git remote add gitee git@gitee.com:x-bash/mirror.git
     git push gitee
 
     git remote remove github 2>/dev/null
-    git remote add github git@github.com:x-bash/advise.git
+    git remote add github git@github.com:x-bash/mirror.git
     git push github
 }

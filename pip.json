@@ -1,0 +1,30 @@
+[
+    {
+        "pattern": [ "qinghua", "tuna", "qh", "tsinghua", "tuna" ],
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "pattern": [ "ustc" ],
+        "url": "https://pypi.mirrors.ustc.edu.cn/simple/"
+    },
+    {
+        "pattern": [ "aliyun" ],
+        "url": "http://mirrors.aliyun.com/pypi/simple/"
+    },
+    {
+        "pattern": [ "huazhong" ],
+        "url": "http://pypi.hustunique.com/"
+    },
+    {
+        "pattern": [ "shandong" ],
+        "url": "http://pypi.sdutlinux.org/"
+    },
+    {
+        "pattern": [ "douban" ],
+        "url": "http://pypi.douban.com/simple/"
+    },
+    {
+        "pattern": [ "tencent", "qq", "weixin" ],
+        "url": "http://mirrors.cloud.tencent.com/pypi/simple"
+    }
+]

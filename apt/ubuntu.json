@@ -1,0 +1,26 @@
+{
+    "version-codename": {
+        "21.04": "hirsute",
+        "20.10": "groovy",
+        "20": "focal",
+        "18": "bionic",
+        "16": "xenial",
+        "14": "trusty",
+        "12": "precise"
+    },
+    "candidates": [
+        {
+            "pattern": [ "taobao", "ali", "aliyun" ],
+            "url": "https://mirrors.aliyun.com/"
+        },
+        {
+            "pattern": [ "tsinghua", "qinghua", "tuna", "qh" ],
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/",
+            "checker-url": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ubuntu/ubuntu/dists/"
+        },
+        {
+            "pattern": [ "ustc" ],
+            "url": "http://npm.tuna.tsinghua.edu.cn/registry"
+        }
+    ]
+}

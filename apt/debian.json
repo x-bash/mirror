@@ -1,0 +1,27 @@
+{
+    "version-codename": {
+        "unstable": "sid",
+        "testing": "testing",
+        "12": "bookworm",
+        "11": "bullseye",
+        "10": "buster",
+        "9": "strech",
+        "8": "jessie",
+        "7": "wheezy"
+    },
+    "candidates": [
+        {
+            "pattern": [ "taobao", "ali", "aliyun" ],
+            "url": "https://mirrors.aliyun.com/"
+        },
+        {
+            "pattern": [ "tsinghua", "qinghua", "tuna", "qh" ],
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/",
+            "checker-url": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ubuntu/ubuntu/dists/"
+        },
+        {
+            "pattern": [ "ustc" ],
+            "url": "http://npm.tuna.tsinghua.edu.cn/registry"
+        }
+    ]
+}
